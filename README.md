@@ -53,3 +53,5 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sriram-srikanth-066376284/)
 
 ###
+
+![Visitor Count](https://api.visitorbadge.io/api/VisitorHit?user=Humanoid2005&repo=Humanoid2005&countColor=%237B1E7A)
