@@ -1,57 +1,158 @@
-<h3 align="left">Hi  I am Sriram👋</h3>
-
-###
-
-<h4 align="left">🎓 Computer Science Student | IIIT Bangalore</h4>
-
-###
-
-<br clear="both">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:bd93f9,100:ff79c6&height=180&section=header&text=Sriram%20Srikanth&fontSize=48&fontColor=f8f8f2&animation=fadeIn&desc=CS%20%40%20IIIT%20Bangalore%20%E2%80%A2%20Systems%20%E2%80%A2%20ML%20%E2%80%A2%20Backend&descAlignY=72" width="100%" alt="Sriram Srikanth" />
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Humanoid2005&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Humanoid2005&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
-</div>
 
-###
+<a href="https://github.com/Humanoid2005">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=3000&pause=800&color=BD93F9&center=true&vCenter=true&width=600&lines=I+build+databases+from+scratch+in+C%2B%2B;I+make+distributed+training+talk+less;I+teach+LLMs+to+reason+over+graphs;I+simulate+CPUs+for+fun;I+ship+it+with+Docker+%2B+Jenkins" alt="Typing intro" />
+</a>
 
-<h4 align="left">🚀 Technologies</h4>
-
-###
-
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
-![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
-![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
-![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
-![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
-![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)
-![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)
-![Numpy](https://img.shields.io/badge/Numpy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![LaTeX](https://img.shields.io/badge/latex-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white)
-
-###
-
-<h4 align="left">💬 Connect</h4>
-
-###
+<br/>
 
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sriramsrikanth2005@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sriram-srikanth-066376284/)
+![Profile views](https://komarev.com/ghpvc/?username=Humanoid2005&style=for-the-badge&color=bd93f9&label=PROFILE+VIEWS)
 
-###
+</div>
 
-![Visitor Count](https://api.visitorbadge.io/api/VisitorHit?user=Humanoid2005&repo=Humanoid2005&countColor=%237B1E7A)
+---
+
+### 👋 Hey, I'm Sriram
+
+I'm a Computer Science student at **IIIT Bangalore** who likes to understand things by building them from the ground up. That has meant writing a relational database, simulating processors, building a reverse proxy, and implementing a distributed training algorithm from its paper.
+
+```python
+class Sriram:
+    university = "IIIT Bangalore"
+    interests  = ["systems", "distributed ML", "RAG & LLMs", "backend engineering"]
+    currently  = "building, breaking, and benchmarking things"
+    fun_fact   = "I once tried to find the best IPL batting order with an optimiser 🏏"
+```
+
+---
+
+### 🛠️ Projects I'm proud of
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+#### 🗄️ [RedbaseDB](https://github.com/Humanoid2005/RedbaseDB)
+A SQL database written **from scratch in C++**: paged storage with an LRU buffer, B+ tree indexes, a SQL engine, and TCP client/server access with locking.
+
+`C++` `Storage engines` `B+ trees` `SQL`
+
+</td>
+<td width="50%" valign="top">
+
+#### ⚡ [OkTopk Sparse AllReduce](https://github.com/Humanoid2005/OkTopk_Sparse_AllReduce)
+An implementation of the **Ok-Topk sparse AllReduce + SGD** algorithm, which cuts communication cost in distributed deep learning.
+
+`Python` `Distributed ML` `HPC`
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+#### 🕸️ [GraphRAG Chatbot](https://github.com/Humanoid2005/GraphRAG-Chatbot)
+**GraphRAG Nexus** combines a ChromaDB vector store with a **Neo4j knowledge graph** for multi-hop reasoning over documents, images and audio.
+
+`LLMs` `Neo4j` `ChromaDB` `RAG`
+
+</td>
+<td width="50%" valign="top">
+
+#### 👗 [Fashion Retrieval Pipeline](https://github.com/Humanoid2005/FashionRetreivalPipeline)
+Text-to-image fashion search built on **fine-tuned CLIP + YOLO**, with a FAISS index and BLIP reranking.
+
+`CLIP` `FAISS` `PyTorch` `Retrieval`
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+#### 🔀 [Reverse Proxy Node](https://github.com/Humanoid2005/Reverse-Proxy-Node)
+A reverse proxy built in **Node.js + TypeScript**.
+
+`TypeScript` `Networking` `Backend`
+
+</td>
+<td width="50%" valign="top">
+
+#### 🛰️ [NASA ETL Pipeline](https://github.com/Humanoid2005/NASA-ETL-Pipeline)
+Runs the same ETL and analytics workload over NASA web server logs on **Pig, MapReduce, MongoDB and Hive**, then compares the results.
+
+`Java` `Hadoop` `Hive` `MongoDB`
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+#### 💻 [CodeNode](https://github.com/Humanoid2005/CodeNode)
+A full-stack online IDE that runs **12+ languages** in sandboxed Judge0 containers and keeps secrets encrypted with AES-256-GCM.
+
+`React` `TypeScript` `FastAPI` `Judge0`
+
+</td>
+<td width="50%" valign="top">
+
+#### 🐚 [AutoShell](https://github.com/Humanoid2005/AutoShell)
+Talk to your terminal in plain English. It turns natural language into shell commands.
+
+`Python` `NLP` `CLI`
+
+</td>
+</tr>
+</table>
+
+<details>
+<summary><b>🔧 More things I've built (click to expand)</b></summary>
+<br/>
+
+| Project | What it is |
+|---|---|
+| [MIPS Processor Simulation](https://github.com/Humanoid2005/MIPS-Processor-Simulation) · [IAS Processor Simulation](https://github.com/Humanoid2005/IAS-Processor-Simulation) | Processors simulated instruction by instruction |
+| [IPL Batsmen Ordering Optimiser](https://github.com/Humanoid2005/IPL_BatsmenOrdering_Optimiser) | Optimisation techniques applied to cricket batting orders 🏏 |
+| [Loyalty Program Management System](https://github.com/Humanoid2005/Loyalty_Program_Management_System) | A loyalty programme platform that any event organiser can use |
+| [Academia CLI Application](https://github.com/Humanoid2005/Academia_CLI_Application) | An academic management system in C, built for the OS course |
+| [ToDo App](https://github.com/Humanoid2005/ToDo_App) · [SPE Mini Project](https://github.com/Humanoid2005/SPE_MiniProject) | Hands-on practice with Docker, Jenkins and CI/CD |
+| [Machine Learning Tutorial](https://github.com/Humanoid2005/Machine-Learning-Tutorial) | Course material for AIT511 Machine Learning 2026 |
+
+</details>
+
+---
+
+### 🚀 Tech I work with
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=py,cpp,c,java,ts,js,html,css,tailwind,react,nodejs,express,fastapi,spring,mongodb,postgres,mysql,docker,jenkins,linux,git,sklearn,pytorch,latex&perline=12" alt="Tech stack" />
+
+</div>
+
+---
+
+### 📊 GitHub at a glance
+
+<div align="center">
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Humanoid2005&theme=dracula" width="100%" alt="Profile details" />
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Humanoid2005&theme=dracula" height="170" alt="Stats" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Humanoid2005&theme=dracula" height="170" alt="Languages" />
+
+<img src="https://streak-stats.demolab.com?user=Humanoid2005&theme=dracula&hide_border=true" alt="Streak stats" />
+
+</div>
+
+<!-- Snake animation: needs .github/workflows/snake.yml (it regenerates the image every day) -->
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Humanoid2005/Humanoid2005/output/github-snake-dark.svg" />
+    <img src="https://raw.githubusercontent.com/Humanoid2005/Humanoid2005/output/github-snake.svg" alt="Snake eating my contributions" />
+  </picture>
+</div>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:ff79c6,100:bd93f9&height=100&section=footer" width="100%" alt="" />
