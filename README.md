@@ -1,12 +1,8 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:bd93f9,100:ff79c6&height=180&section=header&text=Sriram%20Srikanth&fontSize=48&fontColor=f8f8f2&animation=fadeIn&desc=CS%20%40%20IIIT%20Bangalore%20%E2%80%A2%20Systems%20%E2%80%A2%20ML%20%E2%80%A2%20Backend&descAlignY=72" width="100%" alt="Sriram Srikanth" />
-
 <div align="center">
 
-<a href="https://github.com/Humanoid2005">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=3000&pause=800&color=BD93F9&center=true&vCenter=true&width=600&lines=I+build+databases+from+scratch+in+C%2B%2B;I+make+distributed+training+talk+less;I+teach+LLMs+to+reason+over+graphs;I+simulate+CPUs+for+fun;I+ship+it+with+Docker+%2B+Jenkins" alt="Typing intro" />
-</a>
+# Hi, I'm Sriram Srikanth 👋
 
-<br/>
+**CS @ IIIT Bangalore · Systems · ML · Backend**
 
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sriramsrikanth2005@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sriram-srikanth-066376284/)
@@ -155,4 +151,3 @@ Talk to your terminal in plain English. It turns natural language into shell com
   </picture>
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:ff79c6,100:bd93f9&height=100&section=footer" width="100%" alt="" />
